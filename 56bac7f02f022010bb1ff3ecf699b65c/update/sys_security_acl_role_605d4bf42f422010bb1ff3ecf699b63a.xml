@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-29 12:18:50</sys_created_on>
+        <sys_id>605d4bf42f422010bb1ff3ecf699b63a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_198852_new_app_my_ci.x_198852_new_app.office_users</sys_name>
+        <sys_package display_value="New app" source="x_198852_new_app">56bac7f02f022010bb1ff3ecf699b65c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New app">56bac7f02f022010bb1ff3ecf699b65c</sys_scope>
+        <sys_security_acl display_value="x_198852_new_app_my_ci">e45d4bf42f422010bb1ff3ecf699b637</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_605d4bf42f422010bb1ff3ecf699b63a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-29 12:18:50</sys_updated_on>
+        <sys_user_role display_value="x_198852_new_app.office_users" name="x_198852_new_app.office_users">69da0f302f022010bb1ff3ecf699b682</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

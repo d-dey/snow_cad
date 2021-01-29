@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Table 2" max_length="40" name="x_198852_new_app_table_2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Field 1" max_length="100" name="field_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Field 2" max_length="40" name="field_2" type="choice">
+            <choice/>
+        </element>
+        <element attributes="encode_utf8=false" label="Field 5" max_length="32" name="field_5" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="field_5"/>
+        </index>
+    </element>
+</database>

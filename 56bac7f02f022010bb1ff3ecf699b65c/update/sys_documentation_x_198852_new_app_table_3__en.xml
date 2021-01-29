@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Table 3" language="en" table="x_198852_new_app_table_3">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Table 3</label>
+            <language>en</language>
+            <name>x_198852_new_app_table_3</name>
+            <plural>Table 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-29 12:43:33</sys_created_on>
+            <sys_id>66f2133c2f422010bb1ff3ecf699b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table 3</sys_name>
+            <sys_package display_value="New app" source="x_198852_new_app">56bac7f02f022010bb1ff3ecf699b65c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New app">56bac7f02f022010bb1ff3ecf699b65c</sys_scope>
+            <sys_update_name>sys_documentation_x_198852_new_app_table_3__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-29 12:43:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
